@@ -87,7 +87,7 @@ Libraries:
 
 Clone the repository using,
 ```bash
-pip install - r requirements.txt
+git clone https://github.com/dev-datta/Multi-Port-Honeypot
 ```
 
 To install paramiko,
